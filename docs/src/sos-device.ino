@@ -1,4 +1,4 @@
-// SOS Device Prototype
+// SOS Device prototype 
 // Basic Arduino setup for SOS button + buzzer
 
 int buttonPin = 2;     // Push button on pin 2
