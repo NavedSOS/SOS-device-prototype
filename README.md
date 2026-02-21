@@ -72,4 +72,4 @@ Long-term vision:
 **Md Naved Ansari**  
 - Aspiring Computer Science student  
 - Passionate about robotics, safety tech, and innovation  
-- Dream: To study at NUS and build life-saving technology
+- Dream: To study abroad and build life-saving technology
